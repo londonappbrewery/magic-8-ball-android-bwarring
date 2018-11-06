@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+
+    <string name="question">Question: </string>
+    <string name="enter_question">Enter question...</string>
+    <string name="get_answer">Get Answer</string>
 </resources>
