@@ -4,6 +4,9 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 
+    <!-- BACKGROUND COLORS -->
+    <color name="background_turquoise">#26ade0</color>
+
     <!-- BUTTON COLORS -->
     <color name="buttonColorBlue">#292bb9</color>
     <color name="buttonColorWhite">#ffffff</color>
