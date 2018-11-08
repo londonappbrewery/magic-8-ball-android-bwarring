@@ -1,7 +1,17 @@
-.gradle
-/.idea/vcs.xml
+#.gradle
+#/.idea/vcs.xml
 /local.properties
 .DS_Store
-/build
-/captures
-/.idea/workspace.xml
+#/build
+#/captures
+#/.idea/workspace.xml
+
+# Android Studio
+*.iml
+.idea
+#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+.gradle
+build/
+.navigation
+captures/
+output.json
