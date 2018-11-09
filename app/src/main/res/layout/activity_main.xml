@@ -41,7 +41,7 @@
             android:layout_height="wrap_content"
 
             android:layout_centerHorizontal="true"
-            app:srcCompat="@drawable/eight_ball_launch_icon_master" />
+            app:srcCompat="@drawable/eight_ball_icon_master" />
 
     </RelativeLayout>
 
